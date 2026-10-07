@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Abdul Rafay — AI-Assisted Full-Stack Product Engineer, Founder @ RafayLabs" />
+  <img src="banner.jpg" alt="Abdul Rafay — AI-Assisted Full-Stack Product Engineer, Founder @ RafayLabs" />
 </div>
 
 <h3 align="center">I build production-grade mobile apps, web platforms, and AI-powered products — from idea to App Store.</h3>
