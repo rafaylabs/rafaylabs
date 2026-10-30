@@ -49,6 +49,6 @@
 
 I take on freelance and contract projects — mobile apps, SaaS platforms, AI integrations.
 
-📧 **info@rafaylabs.com** · 📱 **+92 310 1799410** · 🌐 **[rafaylabs.com](https://rafaylabs.com)**
+📧 **info@getrafaylabs.com** · 📱 **+92 310 1799410** · 🌐 **[getrafaylabs.com](https://getrafaylabs.com)**
 
 <p align="center"><i>Build · Innovate · Scale — RafayLabs</i></p>
