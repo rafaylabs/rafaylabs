@@ -5,9 +5,9 @@
 <h3 align="center">I build production-grade mobile apps, web platforms, and AI-powered products — from idea to App Store.</h3>
 
 <p align="center">
-  <a href="https://rafaylabs.com">🌐 rafaylabs.com</a> ·
+  <a href="https://rafaylabs.com">🌐 getrafaylabs.com</a> ·
   <a href="https://www.linkedin.com/in/rafaylabs/">💼 LinkedIn</a> ·
-  <a href="mailto:info@rafaylabs.com">📧 info@rafaylabs.com</a>
+  <a href="mailto:info@rafaylabs.com">📧 info@getrafaylabs.com</a>
 </p>
 
 ---
